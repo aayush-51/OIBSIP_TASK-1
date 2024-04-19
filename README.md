@@ -1,4 +1,4 @@
-# OIBSIP_ARYA-CHATTERJEE_PIZZA-DELIVERY-APP
+# PIZZA-DELIVERY-APP
 
 ## Installation 
 After download or clone run `npm install` OR `yarn install` to create node_modules file and install all the dependancies.
